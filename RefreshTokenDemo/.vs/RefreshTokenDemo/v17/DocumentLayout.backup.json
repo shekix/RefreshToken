@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\khushveerrajpurohit\\source\\repos\\dot net core\\RefreshToken\\RefreshTokenDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0519CF11-9882-4AF0-84BC-C5ED55E8802A}|RefreshTokenDemo.csproj|c:\\users\\khushveerrajpurohit\\source\\repos\\dot net core\\refreshtoken\\refreshtokendemo\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0519CF11-9882-4AF0-84BC-C5ED55E8802A}|RefreshTokenDemo.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0519CF11-9882-4AF0-84BC-C5ED55E8802A}|RefreshTokenDemo.csproj|c:\\users\\khushveerrajpurohit\\source\\repos\\dot net core\\refreshtoken\\refreshtokendemo\\models\\refreshtokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0519CF11-9882-4AF0-84BC-C5ED55E8802A}|RefreshTokenDemo.csproj|solutionrelative:models\\refreshtokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0519CF11-9882-4AF0-84BC-C5ED55E8802A}|RefreshTokenDemo.csproj|c:\\users\\khushveerrajpurohit\\source\\repos\\dot net core\\refreshtoken\\refreshtokendemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0519CF11-9882-4AF0-84BC-C5ED55E8802A}|RefreshTokenDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0519CF11-9882-4AF0-84BC-C5ED55E8802A}|RefreshTokenDemo.csproj|c:\\users\\khushveerrajpurohit\\source\\repos\\dot net core\\refreshtoken\\refreshtokendemo\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0519CF11-9882-4AF0-84BC-C5ED55E8802A}|RefreshTokenDemo.csproj|solutionrelative:jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0519CF11-9882-4AF0-84BC-C5ED55E8802A}|RefreshTokenDemo.csproj|c:\\users\\khushveerrajpurohit\\source\\repos\\dot net core\\refreshtoken\\refreshtokendemo\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0519CF11-9882-4AF0-84BC-C5ED55E8802A}|RefreshTokenDemo.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0519CF11-9882-4AF0-84BC-C5ED55E8802A}|RefreshTokenDemo.csproj|c:\\users\\khushveerrajpurohit\\source\\repos\\dot net core\\refreshtoken\\refreshtokendemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0519CF11-9882-4AF0-84BC-C5ED55E8802A}|RefreshTokenDemo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0519CF11-9882-4AF0-84BC-C5ED55E8802A}|RefreshTokenDemo.csproj|c:\\users\\khushveerrajpurohit\\source\\repos\\dot net core\\refreshtoken\\refreshtokendemo\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0519CF11-9882-4AF0-84BC-C5ED55E8802A}|RefreshTokenDemo.csproj|solutionrelative:ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\khushveerrajpurohit\\source\\repos\\dot net core\\RefreshToken\\RefreshTokenDemo\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\khushveerrajpurohit\\source\\repos\\dot net core\\RefreshToken\\RefreshTokenDemo\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T08:40:29.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\khushveerrajpurohit\\source\\repos\\dot net core\\RefreshToken\\RefreshTokenDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\khushveerrajpurohit\\source\\repos\\dot net core\\RefreshToken\\RefreshTokenDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T05:21:42.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RefreshTokenRequest.cs",
+              "DocumentMoniker": "C:\\Users\\khushveerrajpurohit\\source\\repos\\dot net core\\RefreshToken\\RefreshTokenDemo\\Models\\RefreshTokenRequest.cs",
+              "RelativeDocumentMoniker": "Models\\RefreshTokenRequest.cs",
+              "ToolTip": "C:\\Users\\khushveerrajpurohit\\source\\repos\\dot net core\\RefreshToken\\RefreshTokenDemo\\Models\\RefreshTokenRequest.cs",
+              "RelativeToolTip": "Models\\RefreshTokenRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T05:16:49.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\khushveerrajpurohit\\source\\repos\\dot net core\\RefreshToken\\RefreshTokenDemo\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\khushveerrajpurohit\\source\\repos\\dot net core\\RefreshToken\\RefreshTokenDemo\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T05:14:55.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\khushveerrajpurohit\\source\\repos\\dot net core\\RefreshToken\\RefreshTokenDemo\\JwtService.cs",
+              "RelativeDocumentMoniker": "JwtService.cs",
+              "ToolTip": "C:\\Users\\khushveerrajpurohit\\source\\repos\\dot net core\\RefreshToken\\RefreshTokenDemo\\JwtService.cs",
+              "RelativeToolTip": "JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T05:06:02.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\khushveerrajpurohit\\source\\repos\\dot net core\\RefreshToken\\RefreshTokenDemo\\IJwtService.cs",
+              "RelativeDocumentMoniker": "IJwtService.cs",
+              "ToolTip": "C:\\Users\\khushveerrajpurohit\\source\\repos\\dot net core\\RefreshToken\\RefreshTokenDemo\\IJwtService.cs",
+              "RelativeToolTip": "IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T05:05:20.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\khushveerrajpurohit\\source\\repos\\dot net core\\RefreshToken\\RefreshTokenDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\khushveerrajpurohit\\source\\repos\\dot net core\\RefreshToken\\RefreshTokenDemo\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-26T05:01:34.319Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
