@@ -50,8 +50,7 @@
               "RelativeToolTip": "Controllers\\AuthController.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAwwAwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T08:40:29.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T08:40:29.355Z"
             },
             {
               "$type": "Document",
@@ -61,7 +60,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\khushveerrajpurohit\\source\\repos\\dot net core\\RefreshToken\\RefreshTokenDemo\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T05:21:42.732Z",
               "EditorCaption": ""
@@ -100,8 +99,7 @@
               "RelativeToolTip": "JwtService.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAgwDUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T05:06:02.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T05:06:02.709Z"
             },
             {
               "$type": "Document",
@@ -113,8 +111,7 @@
               "RelativeToolTip": "IJwtService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T05:05:20.264Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T05:05:20.264Z"
             }
           ]
         }
